@@ -52,6 +52,10 @@ Hi there! I'm **Shubham Raj**, a passionate **Full-Stack Developer** with a knac
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-lightblue?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazon&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visualstudiocode)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
+
 
 ---
 
