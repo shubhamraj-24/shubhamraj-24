@@ -1,5 +1,3 @@
-
-
 <div align="center" style="background: linear-gradient(to bottom right, #2C5364, #203A43, #0F2027); padding: 20px; border-radius: 10px;">
   <a href="https://shubhamraj-24.github.io/Shubham-Raj-Portfolio/" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/shubhamraj-24/shubhamraj-24/blob/main/assets/shubham_gif4.gif" alt="👋 Hello World" style="border-radius: 10px;"/>
