@@ -25,7 +25,7 @@
 
 > 💡 *"Any combination of 26 alphabets can't define us."*  
 
-Hi there! I'm **Shubham Raj**, a passionate **Full-Stack Developer** with a knack for building efficient and scalable software solutions. My journey is fueled by a love for solving real-world challenges, from crafting dynamic web applications to architecting cloud-based systems. Beyond coding, I enjoy mentoring, leading teams, and exploring innovative technologies.  
+Hi there! I'm **Shubham Raj**, a passionate **Full-Stack Developer** with a knack for building efficient and scalable software solutions. My journey is fueled by a love for solving real-world challenges, from crafting dynamic web applications to architecting cloud-based systems. Beyond coding, I enjoy reading, travelling, leading teams, and exploring innovative technologies.  
 
 ---
 
