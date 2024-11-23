@@ -18,11 +18,6 @@
   <a href="https://shubhamraj-24.github.io/Shubham-Raj-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-20C997?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 </div>
 
-<div align="center">
-  <a href="mailto:shubham321raj@gmail.com">📧 Email</a> • 
-  <a href="https://www.linkedin.com/in/shubham-raj-38a516204">🔗 LinkedIn</a> • 
-  <a href="https://shubhamraj-24.github.io/Shubham-Raj-Portfolio/">🌐 Portfolio</a>
-</div>
 
 ---
 
